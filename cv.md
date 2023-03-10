@@ -12,8 +12,7 @@
 ***My main priority*** is to study to be successful in my future career and to get good income. 
 ***My main benefits as a future specialist*** are my communicativeness, industriousness and stress-resistance. I am open-minded and ready to work hard to meet my goals.
 ***
-### About my skills
-***Hard skills***   
+### Hard skills   
 * C and C++     
 * Java Basics    
 * Python Basics      
@@ -23,20 +22,20 @@
 * Adobe Photoshop, Corel Draw, Autodesk Inventor, 3ds Max  
 * Languages in the paragraph
 
-***Soft skills***
+### Soft skills
 * Working in team
 * Communication
 * Adaptability
 
-***Languages***
+### Languages
 * English - B2   
 ![result](https://github.com/nkrch/folder/blob/main/screenshot%20english%20result.png)
 * Russian - Native
 
-***Cources***
+### Cources
 * The Rolling Scopes School "JavaScript/Front-end" (in progress)
 * Result School "HTML&CSS - первый шаг для начинающих в IT" (completed)
-
+***
 ### Примеры кода
 ### Опыт работы. 
 Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
