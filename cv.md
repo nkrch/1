@@ -32,12 +32,21 @@
 ![result](https://github.com/nkrch/folder/blob/main/screenshot%20english%20result.png)
 * Russian - Native
 
-### Cources
-* The Rolling Scopes School "JavaScript/Front-end" (in progress)
-* Result School "HTML&CSS - первый шаг для начинающих в IT" (completed)
+### Education
+* **Univercity** - Belarusian State Univercity of Informatics and Radiotechnologies
+* **Cources**
+    * The Rolling Scopes School "JavaScript/Front-end" (in progress)
+    * Result School "HTML&CSS - первый шаг для начинающих в IT" (completed)
 ***
 ### Примеры кода
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+***
 ### Опыт работы. 
-Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Finished school 
-B2
+
