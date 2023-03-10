@@ -14,24 +14,28 @@
 ***
 ### About my skills
 ***Hard skills***   
-* _C and C++_     
-* _Java Basics_    
-* _Python Basics_      
-* _HTML5, CSS3_ 
-* _Git, Github_
-* _IntelJ IDEA, VS Code_
-* _Adobe Photoshop, Corel Draw, Autodesk Inventor, 3ds Max_  
-* _Languages in the paragraph_
+* C and C++     
+* Java Basics    
+* Python Basics      
+* HTML5, CSS3 
+* Git, Github
+* IntelJ IDEA, VS Code
+* Adobe Photoshop, Corel Draw, Autodesk Inventor, 3ds Max  
+* Languages in the paragraph
 
 ***Soft skills***
-* _Working in team_
-* _Communication_
-* _Adaptability_
+* Working in team
+* Communication
+* Adaptability
 
 ***Languages***
-* _English - B2_
-* _Russian - Native_
+* English - B2   
+![result](https://github.com/nkrch/folder/blob/main/screenshot%20english%20result.png)
+* Russian - Native
 
+***Cources***
+* The Rolling Scopes School "JavaScript/Front-end" (in progress)
+* Result School "HTML&CSS - первый шаг для начинающих в IT" (completed)
 
 ### Примеры кода
 ### Опыт работы. 
