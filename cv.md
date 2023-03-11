@@ -38,7 +38,7 @@
     * The Rolling Scopes School "JavaScript/Front-end" (in progress)
     * Result School "HTML&CSS - первый шаг для начинающих в IT" (completed)
 ***
-### Примеры кода
+### Code examples
 ```
 function sum(a, b) {
   return a + b;
@@ -48,5 +48,3 @@ let result = sum(1, 2);
 alert( result );
 ```
 ***
-### Опыт работы. 
-
